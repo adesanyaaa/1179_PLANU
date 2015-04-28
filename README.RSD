@@ -1,0 +1,9 @@
+1.Name:PLAN  U
+2. Remote Centre ID (RC_ID):1179
+3. College / Institute Name :VISWAJYOTHI COLLEGE OF   ENGINEERING AND TECHNOLOGY,VAZHAKULAM
+4 City, State, Pin Code :MUVATTUPUZHA,KERALA,
+5.Name/’s of the Student :ALEENA K PETER,AMRUTHA SATHEESH,ANJU GEORGE,SHILPA SUGATHAN
+ 6.About: This is an android application that well manages the user schedules using reminder facility. The application incorporates the facility of managing both personal and group events. The user initially has to sign up and can start using the app. The user can then view the calendar and add events and tasks corresponding to a time of a day. The reminder is set based on location and is activated when user enters into the specified location. The app also provides the facility to prioritize your events and tasks as you wish. When planning a group event the organizer can add participants to it and participants can either reject or accept the invitation. Also the app add up a notification to each other participants when each of them reaches the assigned location. The user is also able to view a map showing the current position, saved events location and the estimated distance between them.The app uses a cloud storage to manage user and  related details. Thus the app can be divided into two modules as server and application side. Thus with all these extended facilities from a normal reminder app,this act as a good application for managing both  personal and group events.
+
+
+Mail: jacob_mathai@ymail.com

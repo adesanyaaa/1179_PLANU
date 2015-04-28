@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PlanU</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">new Event</string>
+    <string name="group">G+</string>
+    <string name="personal">P+</string>
+    <string name="title_activity_view">PlanU</string>
+    <string name="title_activity_add">PlanU</string>
+    <string name="title_activity_expandable">PlanU</string>
+    <string name="title_activity_group">PlanU</string>
+    <string name="title_activity_place_list">PlanU</string>
+    <string name="title_activity_place">PlanU</string>
+    <string name="title_activity_map">PlanU</string>
+    <string name="title_activity_group_event">PlanU</string>
+    <string name="title_activity_registration">PlanU</string>
+    <string name="monday">MON</string>
+    <string name="tuesday">TUE</string>
+    <string name="wednesday">WED</string>
+    <string name="thursday">THU</string>
+    <string name="friday">FRI</string>
+    <string name="saturday">SAT</string>
+    <string name="sunday">SUN</string>
+    <string name="title_activity_notification">NotificationActivity</string>
+
+</resources>

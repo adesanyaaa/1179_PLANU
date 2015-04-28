@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.vc.locationevent.MainActivity" >
+
+    <item
+        android:id="@+id/mpersonal"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        
+        android:title="@string/personal"/>
+    
+    <item
+        android:id="@+id/mgroup"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="@string/group"/>
+
+</menu>
